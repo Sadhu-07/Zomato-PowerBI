@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard designed to visualize Zomato's res
 
 ### Tools Used:
 - **Power BI**: For data visualization and dashboard creation.
-- **Zomato Data**: Restaurant data sourced from Zomato's public dataset (or API).
+- **Zomato Data**: Restaurant data sourced from Zomato's public dataset.
 
 ### Getting Started:
 1. Download the `.pbix` file from the repository.
@@ -22,4 +22,3 @@ Feel free to customize the dashboard further to suit your specific analytical ne
 
 ---
 
-This description provides an overview of the project and includes the necessary details to help others understand and use the dashboard.
